@@ -12,13 +12,15 @@ A simple command-line **Hangman game** built in Python. The player guesses lette
 
 ---
 
+File Structure
+```
 hangman/
 │
 ├── main.py             # Main game logic
-├── wordlist.py         # Contains list of words and/or ASCII title
+├── wordlist.py         # Contains list of words
 ├── hangmanArts.py      # Contains ASCII art and hangman stages
 └── README.md           # This file
-
+```
 
 ## 🖥️ How to Run
 
